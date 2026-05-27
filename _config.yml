@@ -26,26 +26,13 @@ author:
   avatar           : "profile.png"
   name             : "Kaleb Phipps"
   pronouns         : "He/Him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I like Running and working out. I am pursuing a career in computer science, and plan on going to BYU for collage"
   location         : "Richland WA, USA"
   employer         : "Chick-fil-A"
   uri              : # URL
   email            : "kaleb.joshua.phipps@gmail.com" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
-
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
