@@ -21,4 +21,4 @@ redirect_from:
 ## Career Goals
    I want to work in the Computer Science field, I dont quite know where or how right now.
 ## Resume
-https://docs.google.com/document/d/1-OtyK5UYJeDVmtp1Ap_yfFIqsIAM6MCbiywOpXqMnqY/edit?usp=sharing
+[ReadMyResume!](https://rb.gy/50xz3b)
