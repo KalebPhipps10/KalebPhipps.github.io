@@ -4,7 +4,7 @@ excerpt: "Godot Game <br/><img src='/images/GodotGameScreenshot.png'>"
 collection: portfolio
 ---
 
-Godot Game<br>
+Godot Game<br> 
 -Created a simple game where you can walk around as a character<br>
 -Idle and running animations for each direction<br>
 -Learned how to do pixel art<br>
